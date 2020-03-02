@@ -4,6 +4,11 @@
 {"tid":-1,"name":"Zeri Wohleber","ratings":[{"hgt":78,"stre":73,"spd":73,"jmp":78,"endu":56,"ins":99,"dnk":78,"ft":73,"fg":78,"tp":79,"diq":95,"oiq":91,"drb":47,"pss":89,"reb":78},null],"pos":"SF","hgt":99,"weight":230,"born":{"year":1995,"loc":"Boston, MA"},"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627782.png","contract":{"amount":1545,"exp":2019},"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2016},"college":"Kansas","injury":{"type":"Healthy","gamesRemaining":0}}  
 {"tid":21,"name":"Trent McCarty","pos":"G","hgt":99,"weight":230,"born":{"year":1997,"loc":"Edmond, OK"},"contract":{"amount":900,"exp":2020},"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},"college":"Tulsa","ratings":[{"hgt":81,"stre":73,"spd":84,"jmp":79,"endu":85,"ins":78,"dnk":73,"ft":78,"fg":79,"tp":69,"diq":92,"oiq":91,"drb":83,"pss":75,"reb":75}]}
 {"tid":21,"name":"Langston Stroupe","pos":"SF","hgt":99,"weight":230,"born":{"year":1997,"loc":"Edmond, OK"},"contract":{"amount":900,"exp":2020},"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},"college":"Tulsa","ratings":[{"hgt":83,"stre":78,"spd":73,"jmp":90,"endu":79,"ins":87,"dnk":82,"ft":86,"fg":67,"tp":69,"diq":97,"oiq":91,"drb":83,"pss":75,"reb":75}]}
+{"tid":5,"name":"Cohen McWilliams","ratings":[{"hgt":0,"stre":0,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],"pos":"SF","hgt":0,"weight":251,"born":{"year":1989,"loc":"Santa Monica, CA"},"contract":{"amount":28950,"exp":2023},"draft":{"round":1,"pick":5,"tid":14,"originalTid":14,"year":2008},"college":"UCLA","awards":[{"season":2011,"type":"Most Improved Player"},{"season":2011,"type":"League Rebounding Leader"}],"injury":{"type":"Healthy","gamesRemaining":0}}
+
+
+
+
 ],
 "teams":[
 {"tid":0,"cid":0,"did":2,
